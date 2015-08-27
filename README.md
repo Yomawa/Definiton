@@ -3,7 +3,9 @@ TCP/IP
 •IP finds Ip address(identify websites),computer finds each other
 •TCP transfers communication 
 XHR
+js object make Ajax call make a request from server with out refreshing page
 •it is a trim getting data of the server with our refresing page 
+•you use AJAX but under the hood you use XHR
 HTTP
 •comunication between client and server (has to be text)
 PROTOCOL
@@ -20,3 +22,5 @@ SERVER
 •
 AJAX
 •get  data from server with no refreshing, it has takes two parametars url and call back function 
+API
+• from my computer to get DATA from other computer or server, also from DOM /set of methods or functionalaty that we as developers can use that is givent to us from external source/
